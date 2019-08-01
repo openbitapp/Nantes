@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "Nantes",
     platforms: [
-        .iOS(.v8)
+        .iOS(.v9)
     ],
     dependencies: [],
     targets: [
