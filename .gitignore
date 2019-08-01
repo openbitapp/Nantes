@@ -50,3 +50,4 @@ InstacartTests/FailureDiffs
 
 #SPM
 .build/*
+.swiftpm/
