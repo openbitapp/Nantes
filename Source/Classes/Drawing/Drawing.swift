@@ -6,6 +6,9 @@
 //  Copyright © 2019 Instacart. All rights reserved.
 //
 
+import UIKit
+import CoreGraphics
+
 extension NantesLabel {
     var flushFactor: CGFloat {
         switch textAlignment {

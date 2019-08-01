@@ -6,6 +6,10 @@
 //  Copyright © 2019 Instacart. All rights reserved.
 //
 
+import UIKit
+import CoreText
+import Foundation
+
 extension NSAttributedString {
     static func attributes(from label: NantesLabel) -> [NSAttributedString.Key: Any] {
         var attributes: [NSAttributedString.Key: Any] = [:]

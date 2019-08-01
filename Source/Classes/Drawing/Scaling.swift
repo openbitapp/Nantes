@@ -6,6 +6,9 @@
 //  Copyright © 2019 Instacart. All rights reserved.
 //
 
+import UIKit
+import Foundation
+
 extension NantesLabel {
     private var lineBreakWordWrapTextWidthScalingFactor: CGFloat { return CGFloat(Double.pi / M_E) }
 

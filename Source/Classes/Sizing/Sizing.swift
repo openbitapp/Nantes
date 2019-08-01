@@ -6,6 +6,10 @@
 //  Copyright © 2019 Instacart. All rights reserved.
 //
 
+import CoreText
+import Foundation
+import CoreGraphics
+
 extension NantesLabel {
     override open var intrinsicContentSize: CGSize {
         return sizeThatFits(super.intrinsicContentSize)
